@@ -17,7 +17,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Microsoft.PSharp.Visualization
+namespace Microsoft.PSharp.TraceViewer
 {
     /// <summary>
     /// Interaction logic for VisualizeWindow.xaml

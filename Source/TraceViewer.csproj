@@ -7,8 +7,8 @@
     <ProjectGuid>{17DD1184-C1F7-41B6-8DFD-F159CE7D78CC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Microsoft.PSharp.Visualization</RootNamespace>
-    <AssemblyName>PSharpTraceViewer</AssemblyName>
+    <RootNamespace>Microsoft.PSharp.TraceViewer</RootNamespace>
+    <AssemblyName>TraceViewer</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <RuntimeIdentifier>win</RuntimeIdentifier>
     <FileAlignment>512</FileAlignment>

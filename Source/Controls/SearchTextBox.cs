@@ -10,7 +10,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Threading;
 
-namespace Microsoft.PSharp.Visualization
+namespace Microsoft.PSharp.TraceViewer
 {
     /// <summary>
     /// Class implementing a search text box.

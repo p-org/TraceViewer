@@ -7,7 +7,7 @@ The trace viewer can be used to _view_ and _visualize_ (buggy) execution traces 
 
 To open the trace viewer use the following command:
 ```
-.\PSharpTraceViewer.exe
+.\bin\net46\TraceViewer.exe
 ```
 
 The input to the trace viewer is a `.pstrace` file, which is dumped by the `PSharpTester.exe`. From the `File` menu, choose the trace file to be loaded. The viewer will then populate the _dynamic trace view_.

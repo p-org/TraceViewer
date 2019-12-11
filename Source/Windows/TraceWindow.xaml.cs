@@ -13,7 +13,7 @@ using System.Windows.Media;
 
 using Microsoft.PSharp.TestingServices.Tracing.Error;
 
-namespace Microsoft.PSharp.Visualization
+namespace Microsoft.PSharp.TraceViewer
 {
     /// <summary>
     /// Interaction logic for TraceWindow.xaml

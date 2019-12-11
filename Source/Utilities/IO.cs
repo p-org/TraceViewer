@@ -11,7 +11,7 @@ using Microsoft.Win32;
 
 using Microsoft.PSharp.TestingServices.Tracing.Error;
 
-namespace Microsoft.PSharp.Visualization
+namespace Microsoft.PSharp.TraceViewer
 {
     internal static class IO
     {

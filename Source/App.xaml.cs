@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Microsoft.PSharp.Visualization
+namespace Microsoft.PSharp.TraceViewer
 {
     /// <summary>
     /// Interaction logic for App.xaml
